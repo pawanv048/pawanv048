@@ -2,3 +2,4 @@
 
 - 🔭 I’m currently working on React Native Mobile application development
 - 🌱 I’m currently learning TypeScript
+-  
