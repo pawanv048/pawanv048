@@ -3,4 +3,4 @@
 - 🔭 I’m currently working on React Native Mobile application development
 - 🌱 I’m currently learning TypeScript
 -  I also worked on iOS development.
--  i also have knowledge about swift language as well
+-  I also have knowledge about Swift language as well
