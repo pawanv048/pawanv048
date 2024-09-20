@@ -1,4 +1,6 @@
-### Hi there, I'm Pawan Verma 👋
+# Greetings👋, I'm PAWAN VERMA
+
+--- 
 
 - 🔭 I’m currently working on React Native Mobile application development
 - 🌱 I’m currently learning TypeScript
