@@ -2,7 +2,7 @@
 
 --- 
 
-## Full Stack Hybrid App Developer | React-Native | Tester
+## Full Stack Hybrid App Developer | React-Native | Tester | iOS Developer
 
 I'm a Full Stack Hybrid App Developer with over 2 years of experience in React Native and JavaScript. I specialize in building high-quality mobile apps and have strong skills in testing. I have successfully delivered projects to clients worldwide, focusing on creating user-friendly and effective applications.
 
